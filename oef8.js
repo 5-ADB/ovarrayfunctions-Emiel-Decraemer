@@ -10,4 +10,7 @@ const resultaten = [
   { vak: nederlands, punt: 8, totaal: 10 },
 ];
 
-totaal = resultaten.reduce
+let totaal = resultaten.reduce()
+let procent = totaal*100/5
+
+console.log(procent);
