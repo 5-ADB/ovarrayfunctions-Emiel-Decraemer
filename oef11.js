@@ -13,7 +13,7 @@ const resultaten = [
   { vak: "nederlands", punt: 8, totaal: 10 },
 ];
 
-const chemieAanwezig = resultaten.includes("chemie")
+const chemieAanwezig = resultaten.includes()
  
 if (chemieAanwezig) console.log("chemie is aanwezig");
  

@@ -5,6 +5,6 @@
  */
 const namenlijst = ["Karel", "Pieter", "Pol", "Stef"];
 
-namenlijst.
+namenlijst.map()
 
 console.log(namenlijst);
