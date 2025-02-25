@@ -4,3 +4,7 @@
  *
  */
 const namenlijst = ["Karel", "Pieter", "Pol", "Stef"];
+
+namenlijst.
+
+console.log(namenlijst);

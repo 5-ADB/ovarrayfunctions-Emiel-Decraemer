@@ -3,3 +3,7 @@
  *
  */
 const namenlijst = ["Karel", "Pieter", "Pol", "Stef"];
+
+namenlijst.pop()
+
+console.log(namenlijst);

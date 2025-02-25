@@ -4,3 +4,5 @@
  */
 
 const namenlijst = ["Karel", "Pieter", "Pol", "Stef"];
+
+namenlijst.forEach(console.log())
